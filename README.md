@@ -1,7 +1,9 @@
 # Project1-TrillTerries
+ Jesus Garcia
+ 
  Website detailing the Trill Terries NFT collection
 Overview
-Trill Terriers is a website for a 222 supply NFT collection inscripted on the BTC blockchain.
+Trill Terriers is a website for a 222 supply NFT collection inscripted on the BTC blockchain. This is meant to showcase the collection while also providing valuable information about the Trill Terries NFT collection. Also, a contact form to receive more information is also provided.
 
 Functionality
 The website offers the following functionality:
