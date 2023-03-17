@@ -16,5 +16,28 @@
                 <a href="contact.html">Contact</a>
             </nav>
         </header>
+
+        <main>
+            <h1>Contact Us</h1>
+            <p>
+                If you have any questions or comments about Trill Terries, please fill out the form below, and we'll get back to you as soon as possible.
+            </p>
+            <form action="https://formspree.io/f/{your_formspree_id}" method="POST">
+                <label for="first_name">First Name:</label>
+                <input type="text" id="first_name" name="first_name" required>
+        
+                <label for="last_name">Last Name:</label>
+                <input type="text" id="last_name" name="last_name">
+        
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+        
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+        
+                <input type="submit" value="Submit">
+            </form>
+        </main>
+        
         
     </body>
