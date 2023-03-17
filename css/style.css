@@ -84,5 +84,37 @@ main {
     text-align: center;
     margin-bottom: 40px;
   }
+
+/* Contact form styles */
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 0 auto;
+  }
   
+  label {
+    font-weight: 700;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  input[type="submit"] {
+    background-color: #ff8c00;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor:
+  }  
   
